@@ -1,0 +1,9 @@
+﻿.background-image {
+    width: 200%; /* Adjust width as needed */
+    height: 800px; /* Adjust height as needed */
+    background-image: url('../image/pink aesthetic flower weekly planner.png'); /* Path to your image */
+    background-size: contain; /* Ensures the image is fully visible without stretching */
+    background-repeat: no-repeat; /* Prevents repeating the image */
+    background-position: center center; /* Centers the image */
+    margin-left: -33vw;
+}
